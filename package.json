@@ -1,0 +1,25 @@
+{
+  "name": "css-iframe-exfiltration",
+  "version": "1.0.0",
+  "description": "POC of cross-domain exfiltration using asynchronous stylesheet loading through iframes.",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Becojo/css-iframe-exfiltration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Becojo/css-iframe-exfiltration/issues"
+  },
+  "homepage": "https://github.com/Becojo/css-iframe-exfiltration#readme"
+}
